@@ -1,7 +1,10 @@
 # cuooraObj1
-cuooraObj1 es miniPlataforma(red social) de preguntas y respuestas en **Smalltalk** Pharo, con Seaside framework web. frontEnd modelos y test backend
-donde se pueden subir post, calificar post (like dislike), seguir a otros usuarios o conseguir seguidores
-UML diagram
+cuooraObj1 es miniPlataforma(red social) de preguntas y respuestas en **Smalltalk** Pharo, con **Seaside framework web**. frontEnd modelos y **test backend**
+
+en **cuooraObj1** puedes subir post, calificar (like dislike), realizar preguntas y responder a las mismas, seguir a otros usuarios o conseguir seguidores.
+ademas cada post esta calificado en **Topic** para poder filtrar los post segun tus interes 
+
+### UML diagram
 
 ![Screenshot](UML_diagram.png)
 
